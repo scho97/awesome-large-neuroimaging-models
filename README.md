@@ -46,6 +46,9 @@ In this list, a **Large Neuroimaging Model (LNM)** refers to a class of foundati
 
 ### Electroencephalography (EEG)
 
+- **BIOT** - an encoder-only transformer-based foundation model that adopts a linear self-attention mechanism, pretrained with a contrastive learning objective.\
+  [[Paper](https://arxiv.org/abs/2305.10351) | [Code](https://github.com/ycq091044/BIOT) | [Weights](https://github.com/ycq091044/BIOT/tree/main/pretrained-models)] (*NeurIPS 2023*)
+
 - **LaBraM** – an encoder-only transformer-based foundaiton model designed for cross-dataset learning, pretrained on approximately 2,500 hours of EEG data.\
   [[Paper](https://arxiv.org/abs/2405.18765) | [Code](https://github.com/935963004/LaBraM) | [Weights](https://github.com/935963004/LaBraM/tree/main/checkpoints)] (*ICLR 2024*)
 
