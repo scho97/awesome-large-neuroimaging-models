@@ -101,8 +101,14 @@ In this list, a **Large Neuroimaging Model (LNM)** refers to a class of foundati
 
 ### Electroencephalography (EEG)
 
+- **EEG-Bench** - a benchmark focused on evaluating EEG-based foundaiton models in clinical applications, featuring 14 datasets across 11 diagnostic tasks.\
+  [[Paper](https://arxiv.org/abs/2512.08959) | [Code](https://github.com/ETH-DISCO/EEG-Bench)] (*NeurIPS 2025*)
+
 - **EEG-FM-Bench** - a unified benchmark platform featuring 14 datasets across 10 canonical EEG paradigms, along with multiple evaluation and analysis methods.\
   [[Paper](https://arxiv.org/abs/2508.17742) | [Code](https://github.com/xw1216/EEG-FM-Bench)] (*arXiv 2025*)
+
+- **AdaBrain-Bench** - a benchmark focused on evaluating foundaiton models in non-invasive BCI decoding tasks, including 13 datasets from 7 BCI tasks.\
+  [[Paper](https://arxiv.org/abs/2507.09882) | [Code](https://github.com/Jamine-W/AdaBrain-Bench)] (*arXiv 2025*)
 
 ---
 
