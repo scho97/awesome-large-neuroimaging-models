@@ -18,6 +18,8 @@ This list focuses specifically on **models**, rather than general neuroscience s
 - [Definition & Scope](#definition--scope)
 - [Foundation & Pretrained Models](#foundation--pretrained-models)
 - [Datasets for Pretraining](#datasets-for-pretraining)
+- [Benchmarks & Tasks](#benchmarks--tasks)
+- [Reviews & Surveys](#reviews--surveys)
 - [Tooling & Infrastructure](#tooling--infrastructure)
 - [Contributing](#contributing)
 
@@ -92,6 +94,24 @@ In this list, a **Large Neuroimaging Model (LNM)** refers to a class of foundati
     [[Website](https://doi.org/10.13026/5d4a-j060) | CC BY 4.0]
     - **I-CARE** - a multimodal EEG and ECG dataset of 607 comatose patients following cardiac arrest, accompanied by clinical metadata.\
     [[Website](https://doi.org/10.13026/m33r-bj81) | CC BY-NC-SA 4.0]
+
+---
+
+## Benchmarks & Tasks
+
+### Electroencephalography (EEG)
+
+- **EEG-FM-Bench** - a unified benchmark platform featuring 14 datasets across 10 canonical EEG paradigms, along with multiple evaluation and analysis methods.\
+  [[Paper](https://arxiv.org/abs/2508.17742) | [Code](https://github.com/xw1216/EEG-FM-Bench)] (*arXiv 2025*)
+
+---
+
+## Reviews & Surveys
+
+### Electroencephalography (EEG)
+
+- EEG Foundation Models: A Critical Review of Current Progress and Future Directions\
+  [[Paper](https://openreview.net/forum?id=Iu6qVgtgUD)] (*NeurIPS 2025*)
 
 ---
 
