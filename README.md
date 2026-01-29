@@ -89,6 +89,9 @@ In this list, a **Large Neuroimaging Model (LNM)** refers to a class of foundati
 - **Cam-CAN** - the Cambridge Centre for Ageing and Neuroscience dataset comprising MRI and MEG recordings, designed to study the relationship between ageing and cognition.\
   [[Website](https://opendata.mrc-cbu.cam.ac.uk/projects/camcan/) | [Paper](https://doi.org/10.1186/s12883-014-0204-1) | N/A]
 
+- **LibriBrain** - the largest single-subject MEG dataset to date for speech decoding, comprising over 50 hours of recordings.\
+  [[Website](https://neural-processing-lab.github.io/2025-libribrain-competition/) | [Paper](https://neural-processing-lab.github.io/2025-libribrain-competition/publications/) | CC BY-NC 4.0]
+
 - **TUH-EEG Corpus** - a large-scale clinical EEG dataset collected at the Temple University Hospital, containing over 60,000 EEG recordings; acquisition ongoing since 2002.\
   [[Website](https://isip.piconepress.com/projects/tuh_eeg/) | [Paper](https://doi.org/10.3389/fnins.2016.00196) | N/A]
 
