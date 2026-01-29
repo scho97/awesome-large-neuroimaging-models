@@ -60,6 +60,9 @@ In this list, a **Large Neuroimaging Model (LNM)** refers to a class of foundati
 
 ### Magnetoencephalography (MEG)
 
+- **Brain's Bitter Lesson (BBL)** - a foundation model built on a SEANet-inspired wave-to-wave convolutional encoder, pretrained on nearly 400 hours of MEG data for scalable downstream non-invasive speech decoding.\
+  [[Paper](https://proceedings.mlr.press/v267/jayalath25a.html) | [Code](https://github.com/neural-processing-lab/the-brains-bitter-lesson) | Weights by request] (*ICML 2025*)
+
 - **MEG-GPT** – a decoder-only transformer-based foundation model pretrained on large-scale resting-state MEG data, capturing spatiotemporal and spectral characteristics of neural activity.\
   [[Paper](https://arxiv.org/abs/2510.18080) | [Code](https://github.com/OHBA-analysis/osl-foundation) | [Weights](https://huggingface.co/OHBA-analysis/MEG-GPT/tree/main)] (*arXiv 2025*)
 
