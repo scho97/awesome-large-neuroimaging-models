@@ -117,10 +117,14 @@ In this list, a **Large Neuroimaging Model (LNM)** refers to a class of foundati
 
 ## Reviews & Surveys
 
-### Electroencephalography (EEG)
+- Are Large Brainwave FOundation Models Capable Yet? Insights from Fine-tuning\
+  [[Paper](https://arxiv.org/abs/2507.01196)] (*ICML 2025*)
 
 - EEG Foundation Models: A Critical Review of Current Progress and Future Directions\
   [[Paper](https://openreview.net/forum?id=Iu6qVgtgUD)] (*NeurIPS 2025*)
+
+- Brain Foundation Models: A survey on advancements in neural signal processing and brain discovery\
+  [[Paper](https://ieeexplore.ieee.org/document/11306240)] (*IEEE Signal Processing Magazine*)
 
 ---
 
