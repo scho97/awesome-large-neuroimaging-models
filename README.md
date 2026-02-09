@@ -66,6 +66,9 @@ In this list, a **Large Neuroimaging Model (LNM)** refers to a class of foundati
 - **MEG-GPT** – a decoder-only transformer-based foundation model pretrained on large-scale resting-state MEG data, capturing spatiotemporal and spectral characteristics of neural activity.\
   [[Paper](https://arxiv.org/abs/2510.18080) | [Code](https://github.com/OHBA-analysis/osl-foundation) | [Weights](https://huggingface.co/OHBA-analysis/MEG-GPT/tree/main)] (*arXiv 2025*)
 
+- **MEG-XL** - a brain-to-text foundation model pre-trained with 2.5 minutes of MEG context per sample to capture extended neural context, enabling high data efficiency for decoding perceived words from brain activity.\
+  [[Paper](https://arxiv.org/abs/2602.02494) | [Code](https://github.com/neural-processing-lab/MEG-XL) | [Weights](https://huggingface.co/pnpl/MEG-XL)] (*arXiv 2026*)
+
 ### Functional Magnetic Resonance Imaging (fMRI)
 
 - **BrainLM** – an encoder-decoder transformer model pretrained on 6,700 hours of fMRI recordings to learn transferable whole-brain representations.\
